@@ -70,10 +70,10 @@ Antal dagar räknar med både start- och slutdatum, därför läggs en dag till.
 - Quick View som visar bilinformation direkt i uthyrningsformuläret
 - Appen är inlagd som flik i Teams
 
-![Vyn för bilar i uthyrningsappen](images/app-bilar.png)
+![Vyn för bilar i uthyrningsappen](bilder/app-bilar.png)
 *Bilar med mätarställning, beräknad ålder, pris, modell, märke och tillgänglighet.*
 
-![Vyn för kunder i uthyrningsappen](images/app-kunder.png)
+![Vyn för kunder i uthyrningsappen](bilder/app-kunder.png)
 *Kundregistret. Kontaktuppgifter och personnummer är dolda.*
 
 ## Power Automate
@@ -86,10 +86,10 @@ Antal dagar räknar med både start- och slutdatum, därför läggs en dag till.
 3. Startar ett godkännande (Approval)
 4. Skickar meddelande till kanalen *Offert* i Teams
 
-![Flödet Offertgodkännande i Power Automate](images/flode-offert.png)
+![Flödet Offertgodkännande i Power Automate](bilder/flode-offert.png)
 *Flödet startar när en uthyrning skapas, hämtar kund och bil, och väntar sedan på godkännande.*
 
-![Offertmail med knappar för att godkänna eller avvisa](images/offertmail.png)
+![Offertmail med knappar för att godkänna eller avvisa](bilder/offertmail.png)
 *Offerten som mottagaren får, med knappar för att godkänna eller avvisa.*
 
 ### Flöde 2 – Godkännande
