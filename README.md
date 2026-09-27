@@ -163,8 +163,22 @@ sequenceDiagram
 
 ## Vad jag lärde mig
 
-<!-- Skriv 3–5 meningar med egna ord. Frågor att utgå från:
-     Vad var nytt för dig? Vad var svårast, och hur löste du det?
-     Vad skulle du göra annorlunda nästa gång? -->
 
-[Skriv dina egna reflektioner här.]
+
+- Projektet gav mig en helhetsbild av hur de olika delarna i Power Platform
+hänger ihop. Jag lärde mig att bygga en datamodell i Dataverse med relationer
+och lookup-kolumner, och att låta beräknade fält räkna ut antal dagar och
+totalpris automatiskt i stället för att personalen gör det för hand.
+
+- I Power Automate lärde jag mig hur triggers, godkännanden och villkor fungerar,
+och hur ett flöde kan koppla ihop Dataverse, Outlook, Teams och Forms till en
+sammanhängande process.
+
+- En sak jag tar med mig är skillnaden mellan en rads ID och det namn som visas.
+I offertmailet syns bilen och modellen som ID-koder, eftersom flödet skickar
+med ID:t i stället för namnet. Nästa gång skulle jag hämta registreringsnummer
+och modellnamn från raden, så att mailet blir tydligt för kunden.
+
+- Jag lärde mig också att godkännanden kräver en mottagare som kan ta emot
+Approvals, vilket är viktigt att tänka på om systemet ska användas mot externa
+kunder.
